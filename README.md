@@ -1,6 +1,1 @@
-# 1. Berikan izin eksekusi
-chmod +x termux-cleaner.sh
-
-# 2. Jalankan
-./termux-cleaner.sh
-
+install: bash <(curl -fsSL https://github.com/harispyn/termux-cache-cleaner/raw/refs/heads/main/termux-cleaner.sh)
