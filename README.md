@@ -1,7 +1,6 @@
-# 1. Pindahkan ke Termux
-# 2. Berikan izin eksekusi
-chmod +x clean_termux_realtime.sh
+# 1. Berikan izin eksekusi
+chmod +x termux-cleaner.sh
 
-# 3. Jalankan
-./clean_termux_realtime.sh
+# 2. Jalankan
+./termux-cleaner.sh
 
